@@ -24,13 +24,3 @@
 <p>
   Currently, I'm working on several projects that involve building full-stack web applications, implementing dynamic front-end interfaces, and automating tasks with Python. I'm excited to contribute to open-source projects and collaborate with others in the tech community.
 </p>
-
-<h2>📫 How to Reach Me</h2>
-<p>
-  Feel free to connect with me through <a href="https://twitter.com/">Twitter</a> or drop me an email at <a href="mailto:your-email@example.com">your-email@example.com</a>.
-</p>
-
-<h2>📈 My GitHub Stats</h2>
-<p>
-  ![Angel De Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs)
-</p>
